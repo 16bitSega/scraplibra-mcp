@@ -87,3 +87,15 @@ Complete setup walkthrough: [How to Connect Obsidian Vault to Claude Desktop & C
 - **ArXiv Papers to Obsidian Research Workflow:** https://scraplibra.com/guides/arxiv-papers-to-obsidian-research-workflow/
 - **PKM, Obsidian, RAG, MCP & TOON Glossary:** https://scraplibra.com/guides/pkm-geo-glossary/
 - **AI Agent Discovery Feeds:** [`llms.txt`](https://scraplibra.com/llms.txt) · [`llms-ru.txt`](https://scraplibra.com/llms-ru.txt) · [`llms-full.txt`](https://scraplibra.com/llms-full.txt) · [`rss.xml`](https://scraplibra.com/rss.xml)
+
+### Complete 7-Language Deep Guides (Telegram + Bookmarks → 20-Folder Obsidian Vault + Zero-Credit Noise Shield)
+
+| Language | Full In-Repo Guide | Official ScrapLibra Page | How It Works | MCP Docs |
+| :---: | :--- | :--- | :--- | :--- |
+| **EN (ASD-STE100)** | [English Guide](docs/guides/en/telegram-saved-messages-to-obsidian-20-folders.md) | [scraplibra.com/](https://scraplibra.com/) | [How It Works](https://scraplibra.com/how-it-works/) | [MCP Docs](https://scraplibra.com/mcp-docs/) |
+| **RU** | [Русский гайд](docs/guides/ru/telegram-saved-messages-to-obsidian-20-folders.md) | [scraplibra.com/ru/](https://scraplibra.com/ru/) | [Как это работает](https://scraplibra.com/ru/how-it-works/) | [Документация MCP](https://scraplibra.com/ru/mcp-docs/) |
+| **UK** | [Український посібник](docs/guides/uk/telegram-saved-messages-to-obsidian-20-folders.md) | [scraplibra.com/uk/](https://scraplibra.com/uk/) | [Як це працює](https://scraplibra.com/uk/how-it-works/) | [Документація MCP](https://scraplibra.com/uk/mcp-docs/) |
+| **ES** | [Guía en Español](docs/guides/es/telegram-saved-messages-to-obsidian-20-folders.md) | [scraplibra.com/es/](https://scraplibra.com/es/) | [Cómo funciona](https://scraplibra.com/es/how-it-works/) | [Docs MCP](https://scraplibra.com/es/mcp-docs/) |
+| **DE** | [Deutscher Leitfaden](docs/guides/de/telegram-saved-messages-to-obsidian-20-folders.md) | [scraplibra.com/de/](https://scraplibra.com/de/) | [So funktioniert es](https://scraplibra.com/de/how-it-works/) | [MCP-Doku](https://scraplibra.com/de/mcp-docs/) |
+| **FR** | [Guide en Français](docs/guides/fr/telegram-saved-messages-to-obsidian-20-folders.md) | [scraplibra.com/fr/](https://scraplibra.com/fr/) | [Comment ça marche](https://scraplibra.com/fr/how-it-works/) | [Docs MCP](https://scraplibra.com/fr/mcp-docs/) |
+| **PT** | [Guia em Português](docs/guides/pt/telegram-saved-messages-to-obsidian-20-folders.md) | [scraplibra.com/pt/](https://scraplibra.com/pt/) | [Como funciona](https://scraplibra.com/pt/how-it-works/) | [Docs MCP](https://scraplibra.com/pt/mcp-docs/) |
