@@ -1,0 +1,21 @@
+name: scraplibra-mcp
+displayName: "ScrapLibra — Obsidian Second Brain & TOON MCP Gateway"
+description: "Connect Claude Desktop, Cursor, and AI agents to your 20-folder Obsidian Vault, Telegram archive summaries, and Google NotebookLM compendiums via TOON (-36.7% to -45% tokens)."
+homepage: "https://scraplibra.com/"
+documentation: "https://scraplibra.com/mcp-docs/"
+repository: "https://github.com/16bitSega/scraplibra-mcp"
+author: "ScrapLibra Team"
+version: "1.3.0"
+transport:
+  type: sse
+  url: "https://scraplibra.com/mcp-docs/"
+keywords:
+  - obsidian
+  - second-brain
+  - pkm
+  - notebooklm
+  - mcp
+  - toon
+  - claude-desktop
+  - cursor
+  - telegram
