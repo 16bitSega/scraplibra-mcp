@@ -1,5 +1,18 @@
 # ScrapLibra MCP Server & TOON Benchmark — Obsidian Second Brain Gateway
 
+[![ScrapLibra MCP connector](https://glama.ai/mcp/connectors/app.run.europe-west1.telelibra-cloud-222446907059/scrap-libra/badges/score.svg)](https://glama.ai/mcp/connectors/app.run.europe-west1.telelibra-cloud-222446907059/scrap-libra)
+
+### Quick Connect (Gemini CLI / Claude Code / Cursor)
+
+```bash
+# Google Gemini CLI
+gemini mcp add --transport http 'scrap-libra' 'https://telelibra-cloud-222446907059.europe-west1.run.app/mcp'
+
+# Claude Code
+claude mcp add --transport http scrap-libra https://telelibra-cloud-222446907059.europe-west1.run.app/mcp
+```
+
+
 [![Website](https://img.shields.io/badge/Website-scraplibra.com-dfb489)](https://scraplibra.com/)
 [![MCP Protocol](https://img.shields.io/badge/MCP-JSON--RPC%202.0%20%7C%20SSE-66fcf1)](https://scraplibra.com/mcp-docs/)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@telelibra__ai__bot-26A5E4)](https://t.me/telelibra_ai_bot)
