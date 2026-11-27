@@ -14,16 +14,20 @@ claude mcp add --transport http scrap-libra https://telelibra-cloud-222446907059
 
 
 [![Website](https://img.shields.io/badge/Website-scraplibra.com-dfb489)](https://scraplibra.com/)
+[![Pro + MCP Pricing](https://img.shields.io/badge/Pro%20Second%20Brain%20%2B%20MCP-%244.99%2Fmo-10b981)](https://scraplibra.com/#pricing)
 [![MCP Protocol](https://img.shields.io/badge/MCP-JSON--RPC%202.0%20%7C%20SSE-66fcf1)](https://scraplibra.com/mcp-docs/)
-[![Telegram Bot](https://img.shields.io/badge/Telegram-@telelibra__ai__bot-26A5E4)](https://t.me/telelibra_ai_bot)
+[![Obsidian Plugin](https://img.shields.io/badge/Obsidian%20Plugin-20--Folder%20Taxonomy-7c3aed)](https://github.com/16bitSega/flat-20-folder-taxonomy)
 [![AI Index](https://img.shields.io/badge/AI%20Docs-llms.txt-0d1016)](https://scraplibra.com/llms.txt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**ScrapLibra** (with its official Telegram bot **Telelibra**, [`@telelibra_ai_bot`](https://t.me/telelibra_ai_bot)) converts cluttered browser bookmarks, Telegram Saved Messages exports, YouTube lectures, ArXiv papers, and GitHub repositories into a **20-folder Obsidian Markdown Vault**, **Google NotebookLM master compendiums**, and a live **Model Context Protocol (MCP)** JSON-RPC 2.0 gateway serialized in **TOON**.
+> **Get your live Remote MCP + TOON Gateway in 2 minutes:** Start with **10 free structured notes** on the web (no credit card), or unlock **Pro Second Brain + Remote MCP Gateway** (`$4.99/mo` or `$47.88/yr` = `$3.99/mo`) via Paddle (card/Apple Pay/Google Pay) or OxaPay (crypto) at **[scraplibra.com/#pricing](https://scraplibra.com/#pricing)**.
+
+**ScrapLibra** converts cluttered browser bookmarks, Telegram Saved Messages exports, YouTube lectures, ArXiv papers, and GitHub repositories into a **20-folder Obsidian Markdown Vault**, **Google NotebookLM master compendiums**, and a live **Model Context Protocol (MCP)** JSON-RPC 2.0 gateway serialized in **TOON**.
 
 This public repository contains:
 - **[`benchmarks/toon_vs_json_benchmark.py`](benchmarks/toon_vs_json_benchmark.py)** — reproducible `tiktoken cl100k_base` token compression benchmark (**-36.72% to -45% tokens** vs JSON-RPC).
 - **[`obsidian-20-folder-starter/`](obsidian-20-folder-starter/)** — free, ready-to-clone **20-folder flat Obsidian Vault Starter Kit** with `00_INDEX/Master_MOC.md`.
+- **[`16bitSega/flat-20-folder-taxonomy`](https://github.com/16bitSega/flat-20-folder-taxonomy)** — open-source MIT Obsidian companion plugin for local 20-folder scaffolding, YAML normalization, and vault health audits.
 - **[`smithery.yaml`](smithery.yaml)** — Model Context Protocol (MCP) registry manifest for Claude Desktop, Cursor, Windsurf, and autonomous AI agents.
 
 ---
