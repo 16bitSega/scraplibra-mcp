@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.16bitSega/scraplibra-mcp",
+  "title": "ScrapLibra MCP Server (Obsidian Vault + TOON)",
+  "description": "Remote MCP gateway for 20-folder Obsidian vaults in TOON format (-36.7% to -45% LLM tokens).",
+  "version": "1.0.0",
+  "websiteUrl": "https://scraplibra.com/mcp-docs/",
+  "repository": {
+    "url": "https://github.com/16bitSega/scraplibra-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://telelibra-cloud-222446907059.europe-west1.run.app/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Personal revocable Bearer token from ScrapLibra Pro (https://scraplibra.com/#pricing)",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
