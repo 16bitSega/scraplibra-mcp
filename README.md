@@ -128,3 +128,15 @@ Complete setup walkthrough: [How to Connect Obsidian Vault to Claude Desktop & C
 | **DE** | [Wissensdatenbank strukturieren (DE)](docs/guides/de/how-to-structure-knowledge-base-notes-bookmarks.md) | [PARA vs. Zettelkasten vs. 20 Ordner](https://scraplibra.com/de/guides/second-brain-obsidian-para-zettelkasten/) | [scraplibra.com/de/#pricing](https://scraplibra.com/de/#pricing) |
 | **FR** | [Structurer une base de connaissances (FR)](docs/guides/fr/how-to-structure-knowledge-base-notes-bookmarks.md) | [PARA vs Zettelkasten vs 20 dossiers](https://scraplibra.com/fr/guides/second-brain-obsidian-para-zettelkasten/) | [scraplibra.com/fr/#pricing](https://scraplibra.com/fr/#pricing) |
 | **PT** | [Estruturar uma base de conhecimento (PT)](docs/guides/pt/how-to-structure-knowledge-base-notes-bookmarks.md) | [PARA vs Zettelkasten vs 20 pastas](https://scraplibra.com/pt/guides/second-brain-obsidian-para-zettelkasten/) | [scraplibra.com/pt/#pricing](https://scraplibra.com/pt/#pricing) |
+
+### Complete 7-Language Deep Guides — Series 3 (How to Export & Organize 1,000+ Chrome, Safari & Firefox Bookmarks into Obsidian)
+
+| Language | Full In-Repo Guide | Canonical Guide (`scraplibra.com`) | Web Pricing (10 Free Notes) |
+| :---: | :--- | :--- | :--- |
+| **EN (ASD-STE100)** | [Export & Clean 1,000+ Bookmarks (EN)](docs/guides/en/browser-bookmarks-cleanup-obsidian.md) | [Browser Bookmarks System](https://scraplibra.com/guides/browser-bookmarks-system/) | [scraplibra.com/#pricing](https://scraplibra.com/#pricing) |
+| **UK** | [Експорт і чистка 1 000+ закладок (UK)](docs/guides/uk/browser-bookmarks-cleanup-obsidian.md) | [Система браузерних закладок](https://scraplibra.com/uk/guides/browser-bookmarks-system/) | [scraplibra.com/uk/#pricing](https://scraplibra.com/uk/#pricing) |
+| **RU** | [Экспорт и разбор 1 000+ закладок (RU)](docs/guides/ru/browser-bookmarks-cleanup-obsidian.md) | [Система браузерных закладок](https://scraplibra.com/ru/guides/browser-bookmarks-system/) | [scraplibra.com/ru/#pricing](https://scraplibra.com/ru/#pricing) |
+| **ES** | [Exportar y limpiar 1.000+ marcadores (ES)](docs/guides/es/browser-bookmarks-cleanup-obsidian.md) | [Sistema de marcadores](https://scraplibra.com/es/guides/browser-bookmarks-system/) | [scraplibra.com/es/#pricing](https://scraplibra.com/es/#pricing) |
+| **DE** | [1.000+ Lesezeichen bereinigen (DE)](docs/guides/de/browser-bookmarks-cleanup-obsidian.md) | [Browser-Lesezeichen-System](https://scraplibra.com/de/guides/browser-bookmarks-system/) | [scraplibra.com/de/#pricing](https://scraplibra.com/de/#pricing) |
+| **FR** | [Exporter et trier 1 000+ favoris (FR)](docs/guides/fr/browser-bookmarks-cleanup-obsidian.md) | [Système de favoris](https://scraplibra.com/fr/guides/browser-bookmarks-system/) | [scraplibra.com/fr/#pricing](https://scraplibra.com/fr/#pricing) |
+| **PT** | [Exportar e organizar 1.000+ favoritos (PT)](docs/guides/pt/browser-bookmarks-cleanup-obsidian.md) | [Sistema de favoritos](https://scraplibra.com/pt/guides/browser-bookmarks-system/) | [scraplibra.com/pt/#pricing](https://scraplibra.com/pt/#pricing) |
